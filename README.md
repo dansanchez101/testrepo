@@ -1,4 +1,0 @@
-testrepo
-========
-
-My Test Repo
